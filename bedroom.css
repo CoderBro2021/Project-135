@@ -1,0 +1,59 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#bedstatus
+{
+font-size: 18px;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin:auto;
+}
+menu{
+    width: 400px;
+    float:left;
+    height: 70px;
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+label{
+    color:red;
+    font-size: 25px;
+}
+.link {
+    font-size: medium;
+    width: 190px;
+    margin-top: 15px;
+
+}
+
+.link:hover {
+    font-size: large;
+    text-decoration: underline;
+}
